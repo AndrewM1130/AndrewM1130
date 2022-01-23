@@ -6,7 +6,7 @@
 
 📈 Currently working on Deep Learning Applications to Natural Learning
 
-⚡ I enjoy exploring modern developemnts in Machine Learning & their applications to everyday life
+⚡ I enjoy exploring modern developemnts in Machine Learning & their cross-disciplinary applications
 
 💬 Ask me about anything here
 
