@@ -4,7 +4,7 @@
 
 💼 Graduate Student at UC Berkeley
 
-📈 Currently working on Deep Learning Applications to Natural Learning
+📈 Currently working on Deep Learning Applications to Natural Language Processing
 
 ⚡ I enjoy exploring modern developemnts in Machine Learning & their cross-disciplinary applications
 
